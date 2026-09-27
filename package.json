@@ -1,0 +1,8 @@
+{
+  "name": "risc16-hsm-simulator",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint" },
+  "dependencies": { "next": "15.5.7", "react": "19.0.0", "react-dom": "19.0.0" },
+  "devDependencies": { "@types/node": "^22", "@types/react": "^19", "@types/react-dom": "^19", "typescript": "^5" }
+}
